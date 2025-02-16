@@ -2,7 +2,7 @@
 An intelligent code review assistant powered by OpenAI's GPT and built with Streamlit. This application provides instant code analysis, bug detection, and improvement suggestions for Python code.
 Features
 
-AI-powered code review using OpenAI's GPT-4
+  AI-powered code review using OpenAI's GPT-4
 
 -Detection of potential bugs and issues
 
@@ -15,7 +15,7 @@ AI-powered code review using OpenAI's GPT-4
 -Clean and intuitive Streamlit interface
 
 
-Security and Error Handling:
+  Security and Error Handling:
 
 -Secure API key input
 
@@ -24,7 +24,7 @@ Security and Error Handling:
 -Clear error messages to users
 
 
-User Interface Elements:
+  User Interface Elements:
 
 -Code input text area
 
@@ -34,7 +34,9 @@ User Interface Elements:
 
 -Loading spinner during review
 
-Requirements
+-Sidebar with usage instructions
+
+  Requirements
 
 Python 3.7+
 
@@ -43,4 +45,4 @@ Streamlit
 OpenAI Python package
 
 Valid OpenAI API key
--Sidebar with usage instructions
+
