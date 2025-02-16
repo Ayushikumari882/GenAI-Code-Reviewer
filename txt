@@ -1,0 +1,3 @@
+pip install streamlit openai
+
+streamlit run code_reviewer.py
